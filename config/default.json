@@ -1,0 +1,13 @@
+{
+    "mysql":{
+        "banco-de-dados": "PWII",
+        "usuario": "root",
+        "senha": "",
+
+        "host":"localhost",
+        "port": "3006"
+    },
+    "api": {
+        "porta": 8090
+    }
+}
